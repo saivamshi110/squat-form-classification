@@ -1,6 +1,6 @@
 # Squat Form Classification using Interpretable Machine Learning
 
-This project presents an interpretable machine learning framework for classifying squat form using biomechanical features derived from pose estimation.
+This project presents an Interpretable machine learning for squat form classification using biomechanical features derived from pose estimation.
 
 ## Overview
 We extract sequence-level biomechanical descriptors such as knee flexion and trunk inclination to classify squat form into:
